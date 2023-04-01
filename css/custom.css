@@ -622,8 +622,7 @@ li.card-archive-list-item {
 [data-theme="dark"] #post-info {
     animation: light_5px 10s linear infinite;
 }
-/*
-!* 关键帧描述 *!
+/* 关键帧描述 */
 @keyframes light_15px {
     0% {
         text-shadow: #5636ed 0 0 15px;
@@ -723,7 +722,6 @@ li.card-archive-list-item {
     }
 }
 
-*/
 
 /*页面样式调节*/
 :root {
