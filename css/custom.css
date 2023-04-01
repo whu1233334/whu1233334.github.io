@@ -599,7 +599,7 @@ li.card-archive-list-item {
 /*loading动画*/
 .loading-img {
     background: url(https://s1.ax1x.com/2023/04/01/ppWibxf.jpg) no-repeat center center;
-    background-size: auto;
+    background-size: cover;
 }
 
 
@@ -622,7 +622,8 @@ li.card-archive-list-item {
 [data-theme="dark"] #post-info {
     animation: light_5px 10s linear infinite;
 }
-/* 关键帧描述 */
+/*
+!* 关键帧描述 *!
 @keyframes light_15px {
     0% {
         text-shadow: #5636ed 0 0 15px;
@@ -722,6 +723,7 @@ li.card-archive-list-item {
     }
 }
 
+*/
 
 /*页面样式调节*/
 :root {
