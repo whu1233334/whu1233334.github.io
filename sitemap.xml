@@ -37,6 +37,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://fqzs.netlify.app/categories/index.html</loc>
+    
+    <lastmod>2023-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fqzs.netlify.app/tags/index.html</loc>
+    
+    <lastmod>2023-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://fqzs.netlify.app/</loc>
