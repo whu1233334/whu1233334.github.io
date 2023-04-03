@@ -6,7 +6,7 @@
   <link href="https://fqzs.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://fqzs.netlify.app/"/>
-  <updated>2023-04-03T05:59:24.553Z</updated>
+  <updated>2023-04-03T06:36:29.467Z</updated>
   <id>https://fqzs.netlify.app/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://fqzs.netlify.app/undefined/4a17b156.html"/>
     <id>https://fqzs.netlify.app/undefined/4a17b156.html</id>
-    <published>2023-04-03T05:59:24.553Z</published>
-    <updated>2023-04-03T05:59:24.553Z</updated>
+    <published>2023-04-03T06:36:29.467Z</published>
+    <updated>2023-04-03T06:36:29.467Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="https://fqzs.netlify.app/undefined/7b58c309.html"/>
     <id>https://fqzs.netlify.app/undefined/7b58c309.html</id>
     <published>2023-04-01T23:19:00.000Z</published>
-    <updated>2023-04-03T05:59:24.553Z</updated>
+    <updated>2023-04-03T06:36:29.467Z</updated>
     
     <content type="html"><![CDATA[<h2 id="安装Picgo"><a href="#安装Picgo" class="headerlink" title="安装Picgo"></a>安装Picgo</h2><p>GitHub搜索picgo</p><h2 id="申请一个token"><a href="#申请一个token" class="headerlink" title="申请一个token"></a>申请一个token</h2><p>注意必须勾选仓库权限</p><h2 id="配置仓库信息"><a href="#配置仓库信息" class="headerlink" title="配置仓库信息"></a>配置仓库信息</h2><p><img src="https://raw.githubusercontent.com/whu1233334/picgo-picture-room/picgo/img/202304020033355.png" alt="image.png"></p><h2 id="下载obsidian中的picgo插件"><a href="#下载obsidian中的picgo插件" class="headerlink" title="下载obsidian中的picgo插件"></a>下载obsidian中的picgo插件</h2><h2 id="设置几个插件选项"><a href="#设置几个插件选项" class="headerlink" title="设置几个插件选项"></a>设置几个插件选项</h2><p><img src="https://raw.githubusercontent.com/whu1233334/picgo-picture-room/picgo/img/202304020035364.png" alt="image.png"></p>]]></content>
     
@@ -66,7 +66,7 @@
     <link href="https://fqzs.netlify.app/undefined/dfb8a81f.html"/>
     <id>https://fqzs.netlify.app/undefined/dfb8a81f.html</id>
     <published>2023-03-31T15:58:00.000Z</published>
-    <updated>2023-04-03T05:59:24.553Z</updated>
+    <updated>2023-04-03T06:36:29.467Z</updated>
     
     <content type="html"><![CDATA[<h2 id="配置文章页post-front-matter"><a href="#配置文章页post-front-matter" class="headerlink" title="配置文章页post-front-matter"></a>配置文章页post-front-matter</h2><h2 id="添加徽标"><a href="#添加徽标" class="headerlink" title="添加徽标"></a>添加徽标</h2><h2 id="打字机效果"><a href="#打字机效果" class="headerlink" title="打字机效果"></a><a href="https://zhuanlan.zhihu.com/p/492207978">打字机效果</a></h2><h2 id="Hexo-Butterfly-一些常见问题"><a href="#Hexo-Butterfly-一些常见问题" class="headerlink" title="Hexo + Butterfly 一些常见问题"></a><a href="https://tzy1997.com/articles/hexo1612/#%E9%A6%96%E9%A1%B5%E6%89%93%E5%AD%97%E6%9C%BA%E6%95%88%E6%9E%9C">Hexo + Butterfly 一些常见问题</a></h2><h2 id="Algolia搜索系统"><a href="#Algolia搜索系统" class="headerlink" title="Algolia搜索系统"></a><a href="https://www.fomal.cc/posts/d1927166.html">Algolia搜索系统</a></h2><h2 id="页面布局优化"><a href="#页面布局优化" class="headerlink" title="页面布局优化"></a><a href="">页面布局优化</a></h2><h2 id="右边按钮阅读进度"><a href="#右边按钮阅读进度" class="headerlink" title="右边按钮阅读进度"></a><a href="https://www.fomal.cc/posts/2d7ac914.html">右边按钮阅读进度</a></h2><h2 id="文章三栏"><a href="#文章三栏" class="headerlink" title="文章三栏"></a><a href="https://www.fomal.cc/posts/d739261b.html">文章三栏</a></h2><h2 id="为文章封面图片"><a href="#为文章封面图片" class="headerlink" title="为文章封面图片"></a>为文章封面图片</h2><p>要为每一篇文章的栏目配置图片，需要在文章的top_imge和cover标签传一个图片的url链接，注意不是图片链接<br>url链接通过上传至图床获取<br>文章的 markdown 文档上，在 添加 ，并填上要显示的图片地址。Front-mattercover<br>如果不配置 ，可以设置显示默认的 cover。cover<br>如果不想在首页显示 cover， 可以设置为 。false</p><h2 id="自定义字体"><a href="#自定义字体" class="headerlink" title="自定义字体"></a><a href="https://tzy1997.com/articles/hexo1605/">自定义字体</a></h2><h2 id="修改头像及网站图标"><a href="#修改头像及网站图标" class="headerlink" title="修改头像及网站图标"></a>修改头像及网站图标</h2><p>改网站图标：修改主题文件找到favicon,修改本地的图片<br>改头像：修改主题配置文件找到avater，修改图片url</p><h2 id="双栏修改"><a href="#双栏修改" class="headerlink" title="双栏修改"></a><a href="https://zfe.space/post/hexo-butterfly-article-double-row.html">双栏修改</a></h2><h2 id="加载动画"><a href="#加载动画" class="headerlink" title="加载动画"></a><a href="https://anzhiy.cn/posts/52d8.html">加载动画</a></h2><p>遇到问题：按照流程，发现存在半屏加载页面不消失的情况，于是换用4.4版本的步骤，解决了上述问题。所以butterfly版本只最为参考，实际还是按照实际情况判断选择哪种方式</p><h2 id="利用clion修改本地文件存在的问题"><a href="#利用clion修改本地文件存在的问题" class="headerlink" title="利用clion修改本地文件存在的问题"></a>利用clion修改本地文件存在的问题</h2><h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>用clion修改本地博客配置文件，无法检测到stly,pug,文件的改动，导致推送时漏掉上述类型配置文件</p><h3 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h3><p>放弃用clion修改配置文件，换用其他编辑器；或者，直接在文件夹执行git操作</p>]]></content>
     
