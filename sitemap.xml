@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fqzs.netlify.app/tags/index.html</loc>
+    <loc>https://fqzs.netlify.app/manifest.json</loc>
     
     <lastmod>2023-04-04</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://fqzs.netlify.app/manifest.json</loc>
+    <loc>https://fqzs.netlify.app/tags/index.html</loc>
     
     <lastmod>2023-04-04</lastmod>
     
