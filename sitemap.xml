@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fqzs.netlify.app/tags/index.html</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/dfb8a81f.html</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fqzs.netlify.app/manifest.json</loc>
     
     <lastmod>2023-04-04</lastmod>
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://fqzs.netlify.app/tags/index.html</loc>
+    <loc>https://fqzs.netlify.app/categories/index.html</loc>
     
     <lastmod>2023-04-04</lastmod>
     
@@ -39,24 +57,6 @@
   
   <url>
     <loc>https://fqzs.netlify.app/undefined/7b58c309.html</loc>
-    
-    <lastmod>2023-04-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/dfb8a81f.html</loc>
-    
-    <lastmod>2023-04-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fqzs.netlify.app/categories/index.html</loc>
     
     <lastmod>2023-04-04</lastmod>
     
