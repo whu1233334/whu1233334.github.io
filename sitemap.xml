@@ -115,6 +115,13 @@
   </url>
   
   <url>
+    <loc>https://fqzs.netlify.app/tags/markdown/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://fqzs.netlify.app/tags/obisidian/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
