@@ -8,7 +8,7 @@
       <link href="/undefined/ab9e1965.html"/>
       <url>/undefined/ab9e1965.html</url>
       
-        <content type="html"><![CDATA[<h1 id="配置SSH公钥"><a href="#配置SSH公钥" class="headerlink" title="配置SSH公钥"></a>配置SSH公钥</h1><hr><ul><li>生成SSH公钥：<code>ssh-keygen -t rsa</code>   不断回车; 如果公钥已经存在，则自动覆盖</li><li>获取公钥：<code>cat ~/.ssh/id_rsa.pub</code></li><li>验证是否配置成功: <code>ssh-T:git@github.com</code></li></ul><h1 id="添加远程仓库"><a href="#添加远程仓库" class="headerlink" title="添加远程仓库"></a>添加远程仓库</h1><ul><li>命令： git remote add &lt;远端名称&gt; &lt;仓库路径&gt;<ul><li>远端名称，默认是origin，取决于远端服务器设置</li><li><h1 id="查看远程仓库"><a href="#查看远程仓库" class="headerlink" title="查看远程仓库"></a>查看远程仓库</h1></li></ul></li></ul><h1 id="推送到远程仓库"><a href="#推送到远程仓库" class="headerlink" title="推送到远程仓库"></a>推送到远程仓库</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="配置SSH公钥"><a href="#配置SSH公钥" class="headerlink" title="配置SSH公钥"></a>配置SSH公钥</h1><hr><ul><li>生成SSH公钥：<code>ssh-keygen -t rsa</code>   不断回车; 如果公钥已经存在，则自动覆盖</li><li>获取公钥：<code>cat ~/.ssh/id_rsa.pub</code></li><li>验证是否配置成功: <code>ssh-T:git@github.com</code></li></ul><h1 id="添加远程仓库"><a href="#添加远程仓库" class="headerlink" title="添加远程仓库"></a>添加远程仓库</h1><ul><li>命令：<code>git remote add &lt;远端名称&gt; &lt;仓库路径&gt;</code><ul><li>远端名称，默认是origin，取决于远端服务器设置</li><li>仓库路径，从远端服务器获取此URL</li></ul></li></ul><h1 id="查看远程仓库"><a href="#查看远程仓库" class="headerlink" title="查看远程仓库"></a>查看远程仓库</h1><ul><li>命令：<code>git remote</code></li></ul><h1 id="推送到远程仓库"><a href="#推送到远程仓库" class="headerlink" title="推送到远程仓库"></a>推送到远程仓库</h1>]]></content>
       
       
       
