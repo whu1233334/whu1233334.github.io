@@ -8,7 +8,7 @@
       <link href="/undefined/ab9e1965.html"/>
       <url>/undefined/ab9e1965.html</url>
       
-        <content type="html"><![CDATA[<h1 id="配置SSH公钥"><a href="#配置SSH公钥" class="headerlink" title="配置SSH公钥"></a>配置SSH公钥</h1><hr><ul><li>生成SSH公钥：<code>ssh-keygen -t rsa</code>   不断回车; 如果公钥已经存在，则自动覆盖</li><li>获取公钥：</li></ul><h1 id="添加远程仓库"><a href="#添加远程仓库" class="headerlink" title="添加远程仓库"></a>添加远程仓库</h1><h1 id="查看远程仓库"><a href="#查看远程仓库" class="headerlink" title="查看远程仓库"></a>查看远程仓库</h1><h1 id="推送到远程仓库"><a href="#推送到远程仓库" class="headerlink" title="推送到远程仓库"></a>推送到远程仓库</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="配置SSH公钥"><a href="#配置SSH公钥" class="headerlink" title="配置SSH公钥"></a>配置SSH公钥</h1><hr><ul><li>生成SSH公钥：<code>ssh-keygen -t rsa</code>   不断回车; 如果公钥已经存在，则自动覆盖</li><li>获取公钥：<code>cat ~/.ssh/id_rsa.pub</code><ul><li>验证是否配置成功: <code>ssh-T:git@gitee.com</code></li></ul></li></ul><h1 id="添加远程仓库"><a href="#添加远程仓库" class="headerlink" title="添加远程仓库"></a>添加远程仓库</h1><h1 id="查看远程仓库"><a href="#查看远程仓库" class="headerlink" title="查看远程仓库"></a>查看远程仓库</h1><h1 id="推送到远程仓库"><a href="#推送到远程仓库" class="headerlink" title="推送到远程仓库"></a>推送到远程仓库</h1>]]></content>
       
       
       
