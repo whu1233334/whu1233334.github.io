@@ -12,6 +12,12 @@
       
       
       
+        <tags>
+            
+            <tag> VPN 白嫖 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -238,17 +244,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/readPercent.js"/>
-      <url>/js/readPercent.js</url>
-      
-        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result <= 95) {        up.childNodes[0].style.display = 'none'        up.childNodes[1].style.display = 'block'        up.childNodes[1].innerHTML = result;    } else {        up.childNodes[1].style.display = 'none'        up.childNodes[0].style.display = 'block'    }}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -265,6 +260,17 @@
       <url>/js/runtime/runtime.js</url>
       
         <content type="html"><![CDATA[var now = new Date;function createtime() {    var t = new Date("03/29/2023 00:00:00");    now.setTime(now.getTime() + 250);    var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a,        r = Math.floor(n);    1 == String(r).length && (r = "0" + r);    var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s);    1 == String(i).length && (i = "0" + i);    var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o);    1 == String(l).length && (l = "0" + l);    let g = "";    g = r < 18 && r >= 9        ? `<br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)}setInterval((() => {    createtime()}), 250);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/readPercent.js"/>
+      <url>/js/readPercent.js</url>
+      
+        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result <= 95) {        up.childNodes[0].style.display = 'none'        up.childNodes[1].style.display = 'block'        up.childNodes[1].innerHTML = result;    } else {        up.childNodes[1].style.display = 'none'        up.childNodes[0].style.display = 'block'    }}]]></content>
       
     </entry>
     
