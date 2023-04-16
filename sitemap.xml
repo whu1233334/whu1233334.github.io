@@ -11,6 +11,33 @@
   </url>
   
   <url>
+    <loc>https://fqzs.netlify.app/manifest.json</loc>
+    
+    <lastmod>2023-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/3c47b44b.html</loc>
+    
+    <lastmod>2023-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/ae5c380e.html</loc>
+    
+    <lastmod>2023-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fqzs.netlify.app/undefined/3f8bae1e.html</loc>
     
     <lastmod>2023-04-16</lastmod>
@@ -83,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://fqzs.netlify.app/manifest.json</loc>
-    
-    <lastmod>2023-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fqzs.netlify.app/categories/index.html</loc>
     
     <lastmod>2023-04-16</lastmod>
@@ -120,24 +138,6 @@
   
   <url>
     <loc>https://fqzs.netlify.app/undefined/1db5c403.html</loc>
-    
-    <lastmod>2023-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/3c47b44b.html</loc>
-    
-    <lastmod>2023-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/ae5c380e.html</loc>
     
     <lastmod>2023-04-16</lastmod>
     
