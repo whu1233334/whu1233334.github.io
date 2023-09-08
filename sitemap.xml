@@ -65,24 +65,6 @@
   </url>
   
   <url>
-    <loc>https://fqzs.netlify.app/undefined/3c47b44b.html</loc>
-    
-    <lastmod>2023-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/2c830200.html</loc>
-    
-    <lastmod>2023-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fqzs.netlify.app/undefined/31c326ac.html</loc>
     
     <lastmod>2023-09-08</lastmod>
@@ -111,6 +93,15 @@
   
   <url>
     <loc>https://fqzs.netlify.app/undefined/6ca9ded9.html</loc>
+    
+    <lastmod>2023-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/2c830200.html</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -316,6 +307,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/3c47b44b.html</loc>
+    
+    <lastmod>2023-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://fqzs.netlify.app/</loc>
@@ -426,14 +426,14 @@
   </url>
   
   <url>
-    <loc>https://fqzs.netlify.app/categories/english/</loc>
+    <loc>https://fqzs.netlify.app/categories/LaTax/</loc>
     <lastmod>2023-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://fqzs.netlify.app/categories/LaTax/</loc>
+    <loc>https://fqzs.netlify.app/categories/english/</loc>
     <lastmod>2023-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
