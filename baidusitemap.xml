@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fqzs.netlify.app/undefined/8d4b7ae1.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/e255a10a.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/2a84a8ef.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/d90d1201.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/95b2ede4.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
     <loc>https://fqzs.netlify.app/undefined/c037e1e7.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/d30215e4.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/7566551b.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/a9bcdbf2.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/dfb8a81f.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/735e5788.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/0.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/d04bd5bc.html</loc>
-    <lastmod>2023-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://fqzs.netlify.app/undefined/79666db.html</loc>
     <lastmod>2023-11-26</lastmod>
   </url>
   <url>
@@ -97,19 +45,23 @@
     <lastmod>2023-11-26</lastmod>
   </url>
   <url>
-    <loc>https://fqzs.netlify.app/undefined/65eaa4f7.html</loc>
+    <loc>https://fqzs.netlify.app/undefined/8d4b7ae1.html</loc>
     <lastmod>2023-11-26</lastmod>
   </url>
   <url>
-    <loc>https://fqzs.netlify.app/undefined/3e5cd712.html</loc>
+    <loc>https://fqzs.netlify.app/undefined/e255a10a.html</loc>
     <lastmod>2023-11-26</lastmod>
   </url>
   <url>
-    <loc>https://fqzs.netlify.app/undefined/cc777f4a.html</loc>
+    <loc>https://fqzs.netlify.app/undefined/2a84a8ef.html</loc>
     <lastmod>2023-11-26</lastmod>
   </url>
   <url>
-    <loc>https://fqzs.netlify.app/undefined/3c47b44b.html</loc>
+    <loc>https://fqzs.netlify.app/undefined/d90d1201.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/95b2ede4.html</loc>
     <lastmod>2023-11-26</lastmod>
   </url>
   <url>
@@ -150,6 +102,54 @@
   </url>
   <url>
     <loc>https://fqzs.netlify.app/undefined/10a45d8c.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/d30215e4.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/7566551b.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/a9bcdbf2.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/dfb8a81f.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/735e5788.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/0.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/d04bd5bc.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/79666db.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/65eaa4f7.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/3e5cd712.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/cc777f4a.html</loc>
+    <lastmod>2023-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://fqzs.netlify.app/undefined/3c47b44b.html</loc>
     <lastmod>2023-11-26</lastmod>
   </url>
 </urlset> 
